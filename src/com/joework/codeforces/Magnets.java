@@ -1,4 +1,4 @@
-package com.joework;
+package com.joework.codeforces;
 
 import java.util.Arrays;
 import java.util.Scanner;

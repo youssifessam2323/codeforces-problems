@@ -1,4 +1,4 @@
-package com.joework;
+package com.joework.codeforces;
 
 public class Main {
 
